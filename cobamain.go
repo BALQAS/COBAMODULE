@@ -1,5 +1,5 @@
-pacakage cobamain
+package cobamain
 
-func Anak(sulung string){
-	return fmt.Println("Hallo sulung"+ Anak)
+func Anak(sulung string) string {
+	return "hallo" + sulung
 }
